@@ -1,0 +1,3002 @@
+[
+    {
+        "city": "Tokyo",
+        "lat": 35.685,
+        "lng": 139.7514,
+        "admin_name": "Tōkyō",
+        "raw_response": {
+            "latitude": 35.7,
+            "longitude": 139.75,
+            "generationtime_ms": 0.7816553115844727,
+            "utc_offset_seconds": 32400,
+            "timezone": "Asia/Tokyo",
+            "timezone_abbreviation": "GMT+9",
+            "elevation": 34.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    26.9,
+                    23.6,
+                    24.1,
+                    24.7,
+                    26.0,
+                    25.3,
+                    23.2
+                ],
+                "temperature_2m_min": [
+                    23.9,
+                    19.2,
+                    18.6,
+                    18.7,
+                    20.3,
+                    21.3,
+                    22.1
+                ],
+                "precipitation_sum": [
+                    6.3,
+                    82.9,
+                    15.7,
+                    0.2,
+                    2.7,
+                    61.3,
+                    101.9
+                ],
+                "precipitation_probability_max": [
+                    100,
+                    100,
+                    98,
+                    33,
+                    59,
+                    73,
+                    81
+                ],
+                "wind_speed_10m_max": [
+                    7.6,
+                    9.2,
+                    7.9,
+                    14.2,
+                    13.2,
+                    12.6,
+                    27.9
+                ],
+                "wind_gusts_10m_max": [
+                    37.4,
+                    31.7,
+                    35.6,
+                    38.9,
+                    36.0,
+                    31.7,
+                    62.3
+                ],
+                "weather_code": [
+                    61,
+                    63,
+                    63,
+                    51,
+                    53,
+                    95,
+                    95
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:25.544131"
+    },
+    {
+        "city": "Jakarta",
+        "lat": -6.1753,
+        "lng": 106.8269,
+        "admin_name": "Jakarta",
+        "raw_response": {
+            "latitude": -6.151142,
+            "longitude": 106.8421,
+            "generationtime_ms": 0.2608299255371094,
+            "utc_offset_seconds": 25200,
+            "timezone": "Asia/Jakarta",
+            "timezone_abbreviation": "GMT+7",
+            "elevation": 6.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    32.8,
+                    31.9,
+                    31.1,
+                    30.9,
+                    31.8,
+                    30.8,
+                    32.4
+                ],
+                "temperature_2m_min": [
+                    25.9,
+                    26.5,
+                    26.3,
+                    27.3,
+                    26.2,
+                    25.9,
+                    26.0
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.1,
+                    0.5,
+                    2.4,
+                    1.8,
+                    5.4
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    27,
+                    53,
+                    84,
+                    98,
+                    80,
+                    94
+                ],
+                "wind_speed_10m_max": [
+                    18.4,
+                    16.3,
+                    15.3,
+                    15.8,
+                    15.7,
+                    17.1,
+                    13.1
+                ],
+                "wind_gusts_10m_max": [
+                    49.0,
+                    43.6,
+                    42.5,
+                    43.6,
+                    45.7,
+                    48.6,
+                    40.0
+                ],
+                "weather_code": [
+                    3,
+                    3,
+                    51,
+                    51,
+                    53,
+                    51,
+                    53
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:25.724878"
+    },
+    {
+        "city": "Guangzhou",
+        "lat": 23.13,
+        "lng": 113.26,
+        "admin_name": "Guangdong",
+        "raw_response": {
+            "latitude": 23.093145,
+            "longitude": 113.253136,
+            "generationtime_ms": 0.22673606872558594,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 21.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    31.2,
+                    30.9,
+                    31.7,
+                    33.1,
+                    32.8,
+                    32.7,
+                    31.6
+                ],
+                "temperature_2m_min": [
+                    24.5,
+                    24.7,
+                    25.1,
+                    24.3,
+                    25.2,
+                    25.7,
+                    24.7
+                ],
+                "precipitation_sum": [
+                    12.3,
+                    3.2,
+                    0.1,
+                    0.0,
+                    0.9,
+                    1.5,
+                    12.6
+                ],
+                "precipitation_probability_max": [
+                    86,
+                    82,
+                    53,
+                    17,
+                    37,
+                    29,
+                    39
+                ],
+                "wind_speed_10m_max": [
+                    10.3,
+                    6.5,
+                    8.3,
+                    8.9,
+                    5.4,
+                    5.2,
+                    5.1
+                ],
+                "wind_gusts_10m_max": [
+                    27.7,
+                    18.0,
+                    20.9,
+                    21.2,
+                    13.3,
+                    17.3,
+                    17.6
+                ],
+                "weather_code": [
+                    95,
+                    80,
+                    51,
+                    3,
+                    51,
+                    95,
+                    95
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:25.903438"
+    },
+    {
+        "city": "Mumbai",
+        "lat": 19.0758,
+        "lng": 72.8775,
+        "admin_name": "Mahārāshtra",
+        "raw_response": {
+            "latitude": 19.086115,
+            "longitude": 72.85291,
+            "generationtime_ms": 0.2938508987426758,
+            "utc_offset_seconds": 19800,
+            "timezone": "Asia/Kolkata",
+            "timezone_abbreviation": "GMT+5:30",
+            "elevation": 6.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    29.4,
+                    29.3,
+                    29.0,
+                    28.7,
+                    29.4,
+                    29.9,
+                    29.9
+                ],
+                "temperature_2m_min": [
+                    24.2,
+                    24.9,
+                    25.2,
+                    25.3,
+                    25.1,
+                    25.3,
+                    24.9
+                ],
+                "precipitation_sum": [
+                    10.3,
+                    9.6,
+                    9.7,
+                    8.2,
+                    3.3,
+                    1.8,
+                    0.6
+                ],
+                "precipitation_probability_max": [
+                    95,
+                    94,
+                    96,
+                    92,
+                    82,
+                    65,
+                    92
+                ],
+                "wind_speed_10m_max": [
+                    19.3,
+                    13.8,
+                    14.8,
+                    12.6,
+                    10.5,
+                    11.4,
+                    10.5
+                ],
+                "wind_gusts_10m_max": [
+                    47.2,
+                    37.4,
+                    36.4,
+                    37.4,
+                    29.2,
+                    29.5,
+                    35.6
+                ],
+                "weather_code": [
+                    80,
+                    80,
+                    55,
+                    55,
+                    51,
+                    51,
+                    51
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:26.082979"
+    },
+    {
+        "city": "Shanghai",
+        "lat": 31.2325,
+        "lng": 121.4692,
+        "admin_name": "Shanghai",
+        "raw_response": {
+            "latitude": 31.247803,
+            "longitude": 121.5,
+            "generationtime_ms": 0.22971630096435547,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 5.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    29.4,
+                    29.6,
+                    30.0,
+                    30.3,
+                    31.6,
+                    31.6,
+                    30.0
+                ],
+                "temperature_2m_min": [
+                    22.5,
+                    20.4,
+                    22.2,
+                    23.8,
+                    23.1,
+                    23.8,
+                    21.8
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.8,
+                    0.3,
+                    0.3,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    41,
+                    27,
+                    39,
+                    8,
+                    2
+                ],
+                "wind_speed_10m_max": [
+                    14.5,
+                    12.6,
+                    12.9,
+                    12.1,
+                    13.5,
+                    13.3,
+                    11.4
+                ],
+                "wind_gusts_10m_max": [
+                    39.6,
+                    36.0,
+                    36.0,
+                    30.6,
+                    42.1,
+                    34.6,
+                    31.0
+                ],
+                "weather_code": [
+                    3,
+                    3,
+                    51,
+                    51,
+                    51,
+                    2,
+                    1
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:26.322267"
+    },
+    {
+        "city": "Mexico City",
+        "lat": 19.3538,
+        "lng": -99.1359,
+        "admin_name": "Ciudad de México",
+        "raw_response": {
+            "latitude": 19.36731,
+            "longitude": -99.098114,
+            "generationtime_ms": 0.2142190933227539,
+            "utc_offset_seconds": -21600,
+            "timezone": "America/Mexico_City",
+            "timezone_abbreviation": "GMT-6",
+            "elevation": 2242.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    23.1,
+                    24.3,
+                    23.6,
+                    23.0,
+                    20.5,
+                    20.9,
+                    21.3
+                ],
+                "temperature_2m_min": [
+                    14.7,
+                    13.5,
+                    13.8,
+                    13.2,
+                    14.3,
+                    12.6,
+                    14.3
+                ],
+                "precipitation_sum": [
+                    6.6,
+                    1.5,
+                    24.4,
+                    7.1,
+                    1.0,
+                    8.9,
+                    11.1
+                ],
+                "precipitation_probability_max": [
+                    86,
+                    24,
+                    82,
+                    74,
+                    80,
+                    79,
+                    69
+                ],
+                "wind_speed_10m_max": [
+                    7.9,
+                    13.7,
+                    12.1,
+                    15.2,
+                    8.4,
+                    8.3,
+                    8.1
+                ],
+                "wind_gusts_10m_max": [
+                    27.0,
+                    38.9,
+                    40.3,
+                    39.2,
+                    26.6,
+                    31.7,
+                    20.2
+                ],
+                "weather_code": [
+                    95,
+                    55,
+                    95,
+                    80,
+                    51,
+                    80,
+                    55
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:26.499087"
+    },
+    {
+        "city": "São Paulo",
+        "lat": -23.5504,
+        "lng": -46.6339,
+        "admin_name": "São Paulo",
+        "raw_response": {
+            "latitude": -23.514938,
+            "longitude": -46.610504,
+            "generationtime_ms": 0.22459030151367188,
+            "utc_offset_seconds": -10800,
+            "timezone": "America/Sao_Paulo",
+            "timezone_abbreviation": "GMT-3",
+            "elevation": 768.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    20.4,
+                    17.8,
+                    18.5,
+                    22.2,
+                    24.1,
+                    23.7,
+                    23.7
+                ],
+                "temperature_2m_min": [
+                    11.9,
+                    13.2,
+                    12.9,
+                    13.4,
+                    14.5,
+                    16.7,
+                    18.9
+                ],
+                "precipitation_sum": [
+                    4.4,
+                    1.1,
+                    0.4,
+                    0.1,
+                    0.0,
+                    16.8,
+                    3.6
+                ],
+                "precipitation_probability_max": [
+                    90,
+                    61,
+                    2,
+                    4,
+                    22,
+                    76,
+                    45
+                ],
+                "wind_speed_10m_max": [
+                    10.4,
+                    11.9,
+                    13.5,
+                    13.0,
+                    11.4,
+                    15.0,
+                    15.8
+                ],
+                "wind_gusts_10m_max": [
+                    27.7,
+                    30.6,
+                    33.8,
+                    34.2,
+                    28.4,
+                    45.7,
+                    45.4
+                ],
+                "weather_code": [
+                    81,
+                    53,
+                    51,
+                    51,
+                    3,
+                    95,
+                    53
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:26.676902"
+    },
+    {
+        "city": "Seoul",
+        "lat": 37.56,
+        "lng": 126.99,
+        "admin_name": "Seoul",
+        "raw_response": {
+            "latitude": 37.55,
+            "longitude": 127.0,
+            "generationtime_ms": 0.22125244140625,
+            "utc_offset_seconds": 32400,
+            "timezone": "Asia/Seoul",
+            "timezone_abbreviation": "GMT+9",
+            "elevation": 44.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    24.8,
+                    26.3,
+                    25.5,
+                    28.1,
+                    28.6,
+                    27.3,
+                    30.0
+                ],
+                "temperature_2m_min": [
+                    14.1,
+                    14.6,
+                    16.5,
+                    17.9,
+                    17.7,
+                    17.3,
+                    17.7
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ],
+                "wind_speed_10m_max": [
+                    6.3,
+                    5.4,
+                    6.8,
+                    15.5,
+                    14.2,
+                    11.5,
+                    7.9
+                ],
+                "wind_gusts_10m_max": [
+                    30.6,
+                    22.7,
+                    36.0,
+                    41.4,
+                    33.5,
+                    33.8,
+                    28.8
+                ],
+                "weather_code": [
+                    0,
+                    1,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:26.857561"
+    },
+    {
+        "city": "Chongqing",
+        "lat": 29.55,
+        "lng": 106.5069,
+        "admin_name": "Chongqing",
+        "raw_response": {
+            "latitude": 29.56063,
+            "longitude": 106.45833,
+            "generationtime_ms": 0.18084049224853516,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 218.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    22.7,
+                    23.7,
+                    26.8,
+                    27.9,
+                    29.8,
+                    29.8,
+                    29.0
+                ],
+                "temperature_2m_min": [
+                    21.1,
+                    20.5,
+                    20.6,
+                    21.1,
+                    22.4,
+                    23.3,
+                    23.8
+                ],
+                "precipitation_sum": [
+                    3.6,
+                    19.5,
+                    12.7,
+                    13.8,
+                    11.3,
+                    2.7,
+                    7.2
+                ],
+                "precipitation_probability_max": [
+                    80,
+                    96,
+                    100,
+                    87,
+                    99,
+                    46,
+                    60
+                ],
+                "wind_speed_10m_max": [
+                    9.4,
+                    7.8,
+                    4.6,
+                    7.6,
+                    9.9,
+                    8.5,
+                    7.3
+                ],
+                "wind_gusts_10m_max": [
+                    21.6,
+                    18.0,
+                    13.3,
+                    17.6,
+                    23.8,
+                    22.7,
+                    24.8
+                ],
+                "weather_code": [
+                    53,
+                    80,
+                    80,
+                    81,
+                    95,
+                    53,
+                    95
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:27.037188"
+    },
+    {
+        "city": "Beijing",
+        "lat": 39.904,
+        "lng": 116.4075,
+        "admin_name": "Beijing",
+        "raw_response": {
+            "latitude": 39.89455,
+            "longitude": 116.35983,
+            "generationtime_ms": 0.15032291412353516,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 50.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    29.1,
+                    31.2,
+                    32.4,
+                    28.2,
+                    28.8,
+                    30.7,
+                    28.0
+                ],
+                "temperature_2m_min": [
+                    17.3,
+                    19.3,
+                    20.9,
+                    20.6,
+                    19.5,
+                    21.4,
+                    20.6
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.5,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    6,
+                    41,
+                    26,
+                    11,
+                    10
+                ],
+                "wind_speed_10m_max": [
+                    10.7,
+                    10.6,
+                    13.5,
+                    14.0,
+                    10.1,
+                    13.0,
+                    9.5
+                ],
+                "wind_gusts_10m_max": [
+                    28.4,
+                    28.1,
+                    33.8,
+                    42.5,
+                    27.4,
+                    40.7,
+                    27.4
+                ],
+                "weather_code": [
+                    2,
+                    2,
+                    3,
+                    53,
+                    3,
+                    3,
+                    3
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:27.215584"
+    },
+    {
+        "city": "Kolkāta",
+        "lat": 22.5675,
+        "lng": 88.37,
+        "admin_name": "West Bengal",
+        "raw_response": {
+            "latitude": 22.601053,
+            "longitude": 88.41122,
+            "generationtime_ms": 0.23257732391357422,
+            "utc_offset_seconds": 19800,
+            "timezone": "Asia/Kolkata",
+            "timezone_abbreviation": "GMT+5:30",
+            "elevation": 11.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    33.9,
+                    33.2,
+                    32.7,
+                    32.0,
+                    32.9,
+                    32.1,
+                    32.4
+                ],
+                "temperature_2m_min": [
+                    27.5,
+                    26.4,
+                    26.1,
+                    26.5,
+                    25.7,
+                    25.8,
+                    25.6
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.3,
+                    3.4,
+                    7.2,
+                    0.6,
+                    10.5,
+                    1.8
+                ],
+                "precipitation_probability_max": [
+                    20,
+                    55,
+                    95,
+                    95,
+                    80,
+                    94,
+                    86
+                ],
+                "wind_speed_10m_max": [
+                    9.1,
+                    10.5,
+                    7.5,
+                    7.3,
+                    8.1,
+                    7.2,
+                    3.9
+                ],
+                "wind_gusts_10m_max": [
+                    19.8,
+                    22.7,
+                    16.6,
+                    22.3,
+                    24.5,
+                    20.9,
+                    19.1
+                ],
+                "weather_code": [
+                    3,
+                    51,
+                    95,
+                    96,
+                    51,
+                    96,
+                    51
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:27.397358"
+    },
+    {
+        "city": "Cairo",
+        "lat": 30.0444,
+        "lng": 31.2358,
+        "admin_name": "Al Qāhirah",
+        "raw_response": {
+            "latitude": 30.0625,
+            "longitude": 31.25,
+            "generationtime_ms": 0.396728515625,
+            "utc_offset_seconds": 10800,
+            "timezone": "Africa/Cairo",
+            "timezone_abbreviation": "GMT+3",
+            "elevation": 22.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    37.1,
+                    37.7,
+                    39.7,
+                    32.5,
+                    32.9,
+                    33.4,
+                    32.9
+                ],
+                "temperature_2m_min": [
+                    23.3,
+                    22.8,
+                    25.7,
+                    23.8,
+                    22.2,
+                    21.8,
+                    22.8
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "wind_speed_10m_max": [
+                    15.4,
+                    10.2,
+                    15.8,
+                    14.2,
+                    14.8,
+                    17.5,
+                    14.8
+                ],
+                "wind_gusts_10m_max": [
+                    36.7,
+                    24.8,
+                    39.2,
+                    33.8,
+                    38.2,
+                    42.1,
+                    33.5
+                ],
+                "weather_code": [
+                    2,
+                    45,
+                    2,
+                    2,
+                    2,
+                    3,
+                    2
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:27.580478"
+    },
+    {
+        "city": "Karachi",
+        "lat": 24.86,
+        "lng": 67.01,
+        "admin_name": "Sindh",
+        "raw_response": {
+            "latitude": 24.850615,
+            "longitude": 66.992485,
+            "generationtime_ms": 0.16999244689941406,
+            "utc_offset_seconds": 18000,
+            "timezone": "Asia/Karachi",
+            "timezone_abbreviation": "GMT+5",
+            "elevation": 8.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    38.4,
+                    32.3,
+                    32.3,
+                    32.7,
+                    32.4,
+                    35.3,
+                    35.3
+                ],
+                "temperature_2m_min": [
+                    27.2,
+                    27.7,
+                    26.4,
+                    26.4,
+                    26.4,
+                    26.7,
+                    26.4
+                ],
+                "precipitation_sum": [
+                    0.4,
+                    0.4,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.6
+                ],
+                "precipitation_probability_max": [
+                    45,
+                    20,
+                    2,
+                    0,
+                    10,
+                    18,
+                    18
+                ],
+                "wind_speed_10m_max": [
+                    15.5,
+                    12.2,
+                    14.1,
+                    15.4,
+                    13.3,
+                    13.5,
+                    11.3
+                ],
+                "wind_gusts_10m_max": [
+                    42.8,
+                    34.9,
+                    40.0,
+                    44.6,
+                    38.5,
+                    38.5,
+                    38.5
+                ],
+                "weather_code": [
+                    51,
+                    51,
+                    2,
+                    1,
+                    1,
+                    1,
+                    51
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:27.757373"
+    },
+    {
+        "city": "New York",
+        "lat": 40.6943,
+        "lng": -73.9249,
+        "admin_name": "New York",
+        "raw_response": {
+            "latitude": 40.69669,
+            "longitude": -73.924286,
+            "generationtime_ms": 0.44286251068115234,
+            "utc_offset_seconds": -14400,
+            "timezone": "America/New_York",
+            "timezone_abbreviation": "GMT-4",
+            "elevation": 19.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    22.6,
+                    26.1,
+                    28.7,
+                    29.8,
+                    22.2,
+                    25.4,
+                    20.9
+                ],
+                "temperature_2m_min": [
+                    11.9,
+                    14.9,
+                    21.0,
+                    22.9,
+                    19.6,
+                    20.3,
+                    17.7
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    1,
+                    3,
+                    11,
+                    12,
+                    8,
+                    46,
+                    46
+                ],
+                "wind_speed_10m_max": [
+                    10.5,
+                    14.5,
+                    18.1,
+                    17.3,
+                    21.0,
+                    23.2,
+                    17.1
+                ],
+                "wind_gusts_10m_max": [
+                    31.0,
+                    29.2,
+                    26.3,
+                    27.0,
+                    33.8,
+                    46.8,
+                    28.1
+                ],
+                "weather_code": [
+                    0,
+                    3,
+                    3,
+                    3,
+                    3,
+                    51,
+                    3
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:27.937861"
+    },
+    {
+        "city": "Dhaka",
+        "lat": 23.7289,
+        "lng": 90.3944,
+        "admin_name": "Dhaka",
+        "raw_response": {
+            "latitude": 23.725834,
+            "longitude": 90.38015,
+            "generationtime_ms": 0.22101402282714844,
+            "utc_offset_seconds": 21600,
+            "timezone": "Asia/Dhaka",
+            "timezone_abbreviation": "GMT+6",
+            "elevation": 11.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    34.2,
+                    32.6,
+                    32.2,
+                    32.5,
+                    33.6,
+                    31.1,
+                    33.3
+                ],
+                "temperature_2m_min": [
+                    27.4,
+                    24.9,
+                    25.9,
+                    25.4,
+                    25.7,
+                    25.3,
+                    25.7
+                ],
+                "precipitation_sum": [
+                    0.9,
+                    4.6,
+                    4.2,
+                    3.4,
+                    4.3,
+                    15.8,
+                    0.6
+                ],
+                "precipitation_probability_max": [
+                    60,
+                    88,
+                    67,
+                    76,
+                    55,
+                    69,
+                    67
+                ],
+                "wind_speed_10m_max": [
+                    6.0,
+                    9.9,
+                    9.4,
+                    9.4,
+                    9.3,
+                    7.1,
+                    6.4
+                ],
+                "wind_gusts_10m_max": [
+                    18.0,
+                    26.3,
+                    21.6,
+                    20.9,
+                    26.6,
+                    19.1,
+                    17.6
+                ],
+                "weather_code": [
+                    51,
+                    80,
+                    95,
+                    95,
+                    95,
+                    96,
+                    51
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:28.116376"
+    },
+    {
+        "city": "Moscow",
+        "lat": 55.7506,
+        "lng": 37.6175,
+        "admin_name": "Moskva",
+        "raw_response": {
+            "latitude": 55.75,
+            "longitude": 37.625,
+            "generationtime_ms": 0.36013126373291016,
+            "utc_offset_seconds": 10800,
+            "timezone": "Europe/Moscow",
+            "timezone_abbreviation": "GMT+3",
+            "elevation": 156.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    17.8,
+                    17.2,
+                    20.7,
+                    18.2,
+                    18.7,
+                    19.0,
+                    18.2
+                ],
+                "temperature_2m_min": [
+                    10.5,
+                    7.1,
+                    10.6,
+                    11.7,
+                    9.6,
+                    10.9,
+                    11.7
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.5,
+                    0.0,
+                    0.0,
+                    10.3
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    7,
+                    40,
+                    35,
+                    23,
+                    57
+                ],
+                "wind_speed_10m_max": [
+                    10.2,
+                    6.5,
+                    12.6,
+                    10.8,
+                    8.7,
+                    11.2,
+                    12.8
+                ],
+                "wind_gusts_10m_max": [
+                    27.7,
+                    20.2,
+                    33.8,
+                    29.5,
+                    24.5,
+                    29.5,
+                    34.2
+                ],
+                "weather_code": [
+                    3,
+                    2,
+                    3,
+                    61,
+                    3,
+                    3,
+                    63
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:28.293890"
+    },
+    {
+        "city": "Bangkok",
+        "lat": 13.75,
+        "lng": 100.5167,
+        "admin_name": "Krung Thep Maha Nakhon",
+        "raw_response": {
+            "latitude": 13.743409,
+            "longitude": 100.495865,
+            "generationtime_ms": 0.23818016052246094,
+            "utc_offset_seconds": 25200,
+            "timezone": "Asia/Bangkok",
+            "timezone_abbreviation": "GMT+7",
+            "elevation": 12.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    30.4,
+                    31.5,
+                    31.5,
+                    31.1,
+                    30.0,
+                    27.6,
+                    27.2
+                ],
+                "temperature_2m_min": [
+                    24.7,
+                    25.4,
+                    25.5,
+                    25.6,
+                    25.0,
+                    24.9,
+                    24.3
+                ],
+                "precipitation_sum": [
+                    31.1,
+                    13.9,
+                    11.7,
+                    5.8,
+                    13.8,
+                    29.7,
+                    23.7
+                ],
+                "precipitation_probability_max": [
+                    100,
+                    100,
+                    100,
+                    95,
+                    98,
+                    94,
+                    94
+                ],
+                "wind_speed_10m_max": [
+                    9.9,
+                    10.5,
+                    8.5,
+                    10.9,
+                    11.0,
+                    15.3,
+                    7.2
+                ],
+                "wind_gusts_10m_max": [
+                    31.7,
+                    34.6,
+                    33.5,
+                    26.3,
+                    35.3,
+                    39.6,
+                    31.0
+                ],
+                "weather_code": [
+                    95,
+                    95,
+                    95,
+                    95,
+                    95,
+                    80,
+                    95
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:28.472711"
+    },
+    {
+        "city": "Lagos",
+        "lat": 6.4561,
+        "lng": 3.3936,
+        "admin_name": "Lagos",
+        "raw_response": {
+            "latitude": 6.4323373,
+            "longitude": 3.3948028,
+            "generationtime_ms": 0.19538402557373047,
+            "utc_offset_seconds": 3600,
+            "timezone": "Africa/Lagos",
+            "timezone_abbreviation": "GMT+1",
+            "elevation": 6.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    28.1,
+                    28.2,
+                    27.7,
+                    27.9,
+                    27.8,
+                    26.6,
+                    26.7
+                ],
+                "temperature_2m_min": [
+                    24.7,
+                    24.7,
+                    25.4,
+                    24.1,
+                    25.4,
+                    25.4,
+                    24.6
+                ],
+                "precipitation_sum": [
+                    3.8,
+                    4.9,
+                    3.2,
+                    5.7,
+                    3.3,
+                    9.6,
+                    5.8
+                ],
+                "precipitation_probability_max": [
+                    98,
+                    97,
+                    98,
+                    100,
+                    92,
+                    99,
+                    100
+                ],
+                "wind_speed_10m_max": [
+                    19.7,
+                    20.4,
+                    18.9,
+                    21.2,
+                    21.2,
+                    19.1,
+                    18.6
+                ],
+                "wind_gusts_10m_max": [
+                    45.4,
+                    46.1,
+                    42.8,
+                    47.9,
+                    47.9,
+                    45.0,
+                    43.9
+                ],
+                "weather_code": [
+                    55,
+                    80,
+                    53,
+                    80,
+                    51,
+                    80,
+                    53
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:28.654860"
+    },
+    {
+        "city": "Chengdu",
+        "lat": 30.66,
+        "lng": 104.0633,
+        "admin_name": "Sichuan",
+        "raw_response": {
+            "latitude": 30.615112,
+            "longitude": 104.098946,
+            "generationtime_ms": 0.5638599395751953,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 497.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    21.0,
+                    24.7,
+                    25.7,
+                    26.4,
+                    25.3,
+                    26.5,
+                    26.9
+                ],
+                "temperature_2m_min": [
+                    17.7,
+                    18.3,
+                    19.7,
+                    19.8,
+                    21.3,
+                    21.6,
+                    21.8
+                ],
+                "precipitation_sum": [
+                    11.2,
+                    7.9,
+                    11.2,
+                    1.1,
+                    0.3,
+                    0.6,
+                    1.2
+                ],
+                "precipitation_probability_max": [
+                    100,
+                    96,
+                    55,
+                    71,
+                    32,
+                    39,
+                    28
+                ],
+                "wind_speed_10m_max": [
+                    7.7,
+                    6.5,
+                    7.1,
+                    8.4,
+                    11.4,
+                    7.0,
+                    7.6
+                ],
+                "wind_gusts_10m_max": [
+                    20.5,
+                    19.4,
+                    20.9,
+                    22.7,
+                    25.6,
+                    22.7,
+                    27.0
+                ],
+                "weather_code": [
+                    80,
+                    80,
+                    81,
+                    51,
+                    51,
+                    51,
+                    51
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:28.834073"
+    },
+    {
+        "city": "Delhi",
+        "lat": 28.66,
+        "lng": 77.23,
+        "admin_name": "Delhi",
+        "raw_response": {
+            "latitude": 28.646748,
+            "longitude": 77.2748,
+            "generationtime_ms": 0.2334117889404297,
+            "utc_offset_seconds": 19800,
+            "timezone": "Asia/Kolkata",
+            "timezone_abbreviation": "GMT+5:30",
+            "elevation": 218.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    33.9,
+                    34.2,
+                    33.2,
+                    33.8,
+                    35.6,
+                    35.5,
+                    34.6
+                ],
+                "temperature_2m_min": [
+                    25.7,
+                    24.7,
+                    23.6,
+                    26.4,
+                    26.2,
+                    26.6,
+                    26.3
+                ],
+                "precipitation_sum": [
+                    0.6,
+                    1.8,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.3,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    80,
+                    41,
+                    59,
+                    25,
+                    33,
+                    18,
+                    12
+                ],
+                "wind_speed_10m_max": [
+                    8.5,
+                    28.7,
+                    7.9,
+                    7.7,
+                    8.2,
+                    9.2,
+                    11.5
+                ],
+                "wind_gusts_10m_max": [
+                    25.2,
+                    64.8,
+                    25.6,
+                    24.5,
+                    20.5,
+                    27.0,
+                    30.6
+                ],
+                "weather_code": [
+                    51,
+                    95,
+                    2,
+                    3,
+                    95,
+                    51,
+                    0
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:29.011575"
+    },
+    {
+        "city": "Kinshasa",
+        "lat": -4.3233,
+        "lng": 15.3081,
+        "admin_name": "Kinshasa",
+        "raw_response": {
+            "latitude": -4.3233743,
+            "longitude": 15.306623,
+            "generationtime_ms": 0.17845630645751953,
+            "utc_offset_seconds": 3600,
+            "timezone": "Africa/Kinshasa",
+            "timezone_abbreviation": "GMT+1",
+            "elevation": 280.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    33.8,
+                    29.9,
+                    30.7,
+                    30.4,
+                    31.1,
+                    32.9,
+                    29.6
+                ],
+                "temperature_2m_min": [
+                    24.3,
+                    23.0,
+                    22.9,
+                    22.6,
+                    22.7,
+                    23.1,
+                    23.3
+                ],
+                "precipitation_sum": [
+                    2.3,
+                    14.1,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    33,
+                    32,
+                    16,
+                    6,
+                    4,
+                    4,
+                    4
+                ],
+                "wind_speed_10m_max": [
+                    13.2,
+                    9.2,
+                    10.7,
+                    11.1,
+                    8.3,
+                    11.5,
+                    9.8
+                ],
+                "wind_gusts_10m_max": [
+                    33.8,
+                    29.5,
+                    25.6,
+                    25.2,
+                    24.8,
+                    32.4,
+                    31.0
+                ],
+                "weather_code": [
+                    80,
+                    95,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:29.188449"
+    },
+    {
+        "city": "Istanbul",
+        "lat": 41.01,
+        "lng": 28.9603,
+        "admin_name": "İstanbul",
+        "raw_response": {
+            "latitude": 41.0,
+            "longitude": 28.9375,
+            "generationtime_ms": 0.24175643920898438,
+            "utc_offset_seconds": 10800,
+            "timezone": "Europe/Istanbul",
+            "timezone_abbreviation": "GMT+3",
+            "elevation": 55.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    22.1,
+                    20.6,
+                    21.7,
+                    23.7,
+                    25.7,
+                    25.6,
+                    26.5
+                ],
+                "temperature_2m_min": [
+                    17.2,
+                    18.4,
+                    18.5,
+                    19.2,
+                    19.2,
+                    19.6,
+                    17.9
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    5.2,
+                    0.1,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.2
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    50,
+                    10,
+                    8,
+                    0,
+                    0,
+                    7
+                ],
+                "wind_speed_10m_max": [
+                    23.0,
+                    18.1,
+                    21.2,
+                    21.5,
+                    20.5,
+                    18.9,
+                    7.5
+                ],
+                "wind_gusts_10m_max": [
+                    38.2,
+                    32.0,
+                    34.9,
+                    35.6,
+                    34.2,
+                    41.8,
+                    19.1
+                ],
+                "weather_code": [
+                    3,
+                    61,
+                    3,
+                    3,
+                    3,
+                    3,
+                    80
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:29.403655"
+    },
+    {
+        "city": "Ho Chi Minh City",
+        "lat": 10.7756,
+        "lng": 106.7019,
+        "admin_name": "Hồ Chí Minh",
+        "raw_response": {
+            "latitude": 10.790861,
+            "longitude": 106.71088,
+            "generationtime_ms": 0.21123886108398438,
+            "utc_offset_seconds": 25200,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "timezone_abbreviation": "GMT+7",
+            "elevation": 14.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    31.9,
+                    32.3,
+                    32.4,
+                    31.7,
+                    31.0,
+                    30.8,
+                    30.8
+                ],
+                "temperature_2m_min": [
+                    24.6,
+                    24.6,
+                    24.5,
+                    24.5,
+                    23.9,
+                    24.4,
+                    24.2
+                ],
+                "precipitation_sum": [
+                    7.2,
+                    7.2,
+                    4.8,
+                    26.6,
+                    19.5,
+                    10.8,
+                    15.8
+                ],
+                "precipitation_probability_max": [
+                    84,
+                    90,
+                    100,
+                    100,
+                    96,
+                    96,
+                    98
+                ],
+                "wind_speed_10m_max": [
+                    9.6,
+                    10.5,
+                    10.3,
+                    9.9,
+                    7.1,
+                    9.3,
+                    8.7
+                ],
+                "wind_gusts_10m_max": [
+                    26.3,
+                    36.4,
+                    29.9,
+                    29.5,
+                    31.7,
+                    25.9,
+                    29.2
+                ],
+                "weather_code": [
+                    95,
+                    95,
+                    80,
+                    95,
+                    80,
+                    80,
+                    95
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:29.581785"
+    },
+    {
+        "city": "Ōsaka",
+        "lat": 34.6938,
+        "lng": 135.5021,
+        "admin_name": "Ōsaka",
+        "raw_response": {
+            "latitude": 34.7,
+            "longitude": 135.5,
+            "generationtime_ms": 2.426028251647949,
+            "utc_offset_seconds": 32400,
+            "timezone": "Asia/Tokyo",
+            "timezone_abbreviation": "GMT+9",
+            "elevation": 3.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    26.6,
+                    22.2,
+                    30.0,
+                    30.5,
+                    30.6,
+                    29.8,
+                    28.7
+                ],
+                "temperature_2m_min": [
+                    22.3,
+                    21.1,
+                    20.5,
+                    22.0,
+                    22.9,
+                    22.1,
+                    23.6
+                ],
+                "precipitation_sum": [
+                    2.1,
+                    36.0,
+                    0.0,
+                    0.0,
+                    1.8,
+                    0.3,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    100,
+                    79,
+                    49,
+                    25,
+                    30,
+                    25,
+                    48
+                ],
+                "wind_speed_10m_max": [
+                    5.1,
+                    4.6,
+                    6.9,
+                    11.3,
+                    11.5,
+                    14.8,
+                    14.2
+                ],
+                "wind_gusts_10m_max": [
+                    24.5,
+                    17.3,
+                    28.4,
+                    29.5,
+                    31.7,
+                    34.2,
+                    42.5
+                ],
+                "weather_code": [
+                    53,
+                    63,
+                    2,
+                    3,
+                    53,
+                    51,
+                    3
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:29.761319"
+    },
+    {
+        "city": "Shenzhen",
+        "lat": 22.5467,
+        "lng": 114.0544,
+        "admin_name": "Guangdong",
+        "raw_response": {
+            "latitude": 22.530754,
+            "longitude": 114.08714,
+            "generationtime_ms": 1.726388931274414,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 15.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    31.3,
+                    30.7,
+                    30.0,
+                    31.1,
+                    31.9,
+                    32.5,
+                    30.5
+                ],
+                "temperature_2m_min": [
+                    23.4,
+                    24.4,
+                    24.2,
+                    23.7,
+                    23.8,
+                    24.2,
+                    23.9
+                ],
+                "precipitation_sum": [
+                    9.6,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.8,
+                    6.9
+                ],
+                "precipitation_probability_max": [
+                    100,
+                    24,
+                    0,
+                    2,
+                    37,
+                    71,
+                    79
+                ],
+                "wind_speed_10m_max": [
+                    9.7,
+                    14.3,
+                    13.3,
+                    13.3,
+                    11.7,
+                    8.3,
+                    7.1
+                ],
+                "wind_gusts_10m_max": [
+                    33.5,
+                    35.3,
+                    33.1,
+                    33.8,
+                    28.8,
+                    20.5,
+                    20.5
+                ],
+                "weather_code": [
+                    81,
+                    3,
+                    3,
+                    2,
+                    3,
+                    51,
+                    53
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:29.941314"
+    },
+    {
+        "city": "Tehran",
+        "lat": 35.6889,
+        "lng": 51.3897,
+        "admin_name": "Tehrān",
+        "raw_response": {
+            "latitude": 35.6875,
+            "longitude": 51.375,
+            "generationtime_ms": 0.26857852935791016,
+            "utc_offset_seconds": 12600,
+            "timezone": "Asia/Tehran",
+            "timezone_abbreviation": "GMT+3:30",
+            "elevation": 1169.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    34.2,
+                    33.9,
+                    34.5,
+                    34.3,
+                    35.9,
+                    31.3,
+                    30.0
+                ],
+                "temperature_2m_min": [
+                    17.7,
+                    19.6,
+                    20.4,
+                    21.1,
+                    22.9,
+                    17.7,
+                    15.5
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    3
+                ],
+                "wind_speed_10m_max": [
+                    12.8,
+                    10.3,
+                    10.2,
+                    10.4,
+                    11.6,
+                    14.0,
+                    12.1
+                ],
+                "wind_gusts_10m_max": [
+                    31.7,
+                    28.1,
+                    27.7,
+                    28.4,
+                    32.0,
+                    36.4,
+                    33.1
+                ],
+                "weather_code": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:30.117805"
+    },
+    {
+        "city": "Buenos Aires",
+        "lat": -34.5997,
+        "lng": -58.3819,
+        "admin_name": "Buenos Aires, Ciudad Autónoma de",
+        "raw_response": {
+            "latitude": -34.622143,
+            "longitude": -58.40909,
+            "generationtime_ms": 0.2893209457397461,
+            "utc_offset_seconds": -10800,
+            "timezone": "America/Argentina/Buenos_Aires",
+            "timezone_abbreviation": "GMT-3",
+            "elevation": 16.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    19.1,
+                    12.2,
+                    20.8,
+                    20.2,
+                    22.8,
+                    21.6,
+                    19.2
+                ],
+                "temperature_2m_min": [
+                    9.3,
+                    6.0,
+                    10.7,
+                    12.8,
+                    15.3,
+                    15.0,
+                    13.1
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.2,
+                    18.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6,
+                    43,
+                    51
+                ],
+                "wind_speed_10m_max": [
+                    17.9,
+                    16.9,
+                    13.6,
+                    11.9,
+                    10.7,
+                    11.8,
+                    27.9
+                ],
+                "wind_gusts_10m_max": [
+                    44.6,
+                    43.2,
+                    35.6,
+                    27.0,
+                    28.8,
+                    33.1,
+                    71.3
+                ],
+                "weather_code": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    53,
+                    96
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:30.296063"
+    },
+    {
+        "city": "Tianjin",
+        "lat": 39.1467,
+        "lng": 117.2056,
+        "admin_name": "Tianjin",
+        "raw_response": {
+            "latitude": 39.121265,
+            "longitude": 117.1978,
+            "generationtime_ms": 0.6121397018432617,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Shanghai",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 2.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    28.8,
+                    31.3,
+                    31.7,
+                    27.9,
+                    28.9,
+                    30.2,
+                    26.9
+                ],
+                "temperature_2m_min": [
+                    18.3,
+                    19.7,
+                    21.4,
+                    21.5,
+                    19.2,
+                    22.0,
+                    20.7
+                ],
+                "precipitation_sum": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.4,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    0,
+                    0,
+                    6,
+                    61,
+                    2,
+                    8,
+                    6
+                ],
+                "wind_speed_10m_max": [
+                    7.6,
+                    7.9,
+                    9.3,
+                    9.9,
+                    7.7,
+                    12.6,
+                    6.4
+                ],
+                "wind_gusts_10m_max": [
+                    22.3,
+                    23.4,
+                    27.7,
+                    29.9,
+                    22.0,
+                    37.1,
+                    22.7
+                ],
+                "weather_code": [
+                    2,
+                    3,
+                    3,
+                    51,
+                    3,
+                    3,
+                    3
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:30.476681"
+    },
+    {
+        "city": "Manila",
+        "lat": 14.5958,
+        "lng": 120.9772,
+        "admin_name": "Manila",
+        "raw_response": {
+            "latitude": 14.586995,
+            "longitude": 121.002785,
+            "generationtime_ms": 0.18143653869628906,
+            "utc_offset_seconds": 28800,
+            "timezone": "Asia/Manila",
+            "timezone_abbreviation": "GMT+8",
+            "elevation": 1.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    29.7,
+                    29.7,
+                    29.8,
+                    30.6,
+                    31.1,
+                    30.0,
+                    29.8
+                ],
+                "temperature_2m_min": [
+                    25.7,
+                    25.5,
+                    24.0,
+                    24.0,
+                    24.4,
+                    24.7,
+                    24.3
+                ],
+                "precipitation_sum": [
+                    12.0,
+                    7.6,
+                    16.9,
+                    12.6,
+                    10.5,
+                    7.5,
+                    6.9
+                ],
+                "precipitation_probability_max": [
+                    100,
+                    99,
+                    100,
+                    98,
+                    81,
+                    82,
+                    80
+                ],
+                "wind_speed_10m_max": [
+                    7.5,
+                    8.9,
+                    7.9,
+                    8.1,
+                    10.5,
+                    10.5,
+                    10.7
+                ],
+                "wind_gusts_10m_max": [
+                    26.6,
+                    28.1,
+                    23.4,
+                    31.3,
+                    29.2,
+                    38.9,
+                    39.6
+                ],
+                "weather_code": [
+                    95,
+                    95,
+                    95,
+                    96,
+                    95,
+                    80,
+                    55
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:30.656675"
+    },
+    {
+        "city": "Lahore",
+        "lat": 31.5497,
+        "lng": 74.3436,
+        "admin_name": "Punjab",
+        "raw_response": {
+            "latitude": 31.528997,
+            "longitude": 74.38995,
+            "generationtime_ms": 1.0124444961547852,
+            "utc_offset_seconds": 18000,
+            "timezone": "Asia/Karachi",
+            "timezone_abbreviation": "GMT+5",
+            "elevation": 222.0,
+            "daily_units": {
+                "time": "iso8601",
+                "temperature_2m_max": "°C",
+                "temperature_2m_min": "°C",
+                "precipitation_sum": "mm",
+                "precipitation_probability_max": "%",
+                "wind_speed_10m_max": "km/h",
+                "wind_gusts_10m_max": "km/h",
+                "weather_code": "wmo code"
+            },
+            "daily": {
+                "time": [
+                    "2026-09-15",
+                    "2026-09-16",
+                    "2026-09-17",
+                    "2026-09-18",
+                    "2026-09-19",
+                    "2026-09-20",
+                    "2026-09-21"
+                ],
+                "temperature_2m_max": [
+                    33.5,
+                    32.3,
+                    32.3,
+                    32.4,
+                    34.4,
+                    35.7,
+                    34.6
+                ],
+                "temperature_2m_min": [
+                    25.5,
+                    25.5,
+                    24.8,
+                    23.7,
+                    25.4,
+                    25.6,
+                    25.5
+                ],
+                "precipitation_sum": [
+                    0.9,
+                    2.6,
+                    2.0,
+                    0.5,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "precipitation_probability_max": [
+                    45,
+                    45,
+                    59,
+                    29,
+                    0,
+                    2,
+                    2
+                ],
+                "wind_speed_10m_max": [
+                    12.2,
+                    12.1,
+                    12.8,
+                    6.3,
+                    6.5,
+                    8.0,
+                    8.1
+                ],
+                "wind_gusts_10m_max": [
+                    24.5,
+                    36.4,
+                    23.4,
+                    20.9,
+                    18.7,
+                    22.0,
+                    23.0
+                ],
+                "weather_code": [
+                    95,
+                    95,
+                    95,
+                    53,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        "extracted_at": "2026-09-15T10:56:30.835166"
+    }
+]
