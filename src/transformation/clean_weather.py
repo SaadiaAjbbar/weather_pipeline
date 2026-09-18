@@ -16,7 +16,6 @@ def transform_bronze_To_silver():
         city=record.get("city")
         lat=record.get("lat")
         lng=record.get("lng")
-        admin_name=record.get("admin_name")
         extracted_at=record.get("extracted_at")
         
         raw_response=record.get("raw_response", {})
@@ -24,12 +23,12 @@ def transform_bronze_To_silver():
         daily_data = raw_response.get("daily", {})
         
         dates = daily_data.get("time", [])
-        temp_max = daily_data.get("temperature_2m_max", [])
+        temp_max = daily_data.get("temperature_2m_max", [])#
         temp_min=daily_data.get("temperature_2m_min", [])
-        precip_sum=daily_data.get("precipitation_sum", [])
+        precip_sum=daily_data.get("precipitation_sum", [])#
         precip_prob=daily_data.get("precipitation_probability_max", [])
-        wind_speed = daily_data.get("wind_speed_10m_max", [])
-        wind_gusts = daily_data.get("wind_gusts_10m_max", [])
+        wind_speed = daily_data.get("wind_speed_10m_max", [])#
+        wind_gusts = daily_data.get("wind_gusts_10m_max", [])#
         weather_code = daily_data.get("weather_code", [])
         
         for i in range(len(dates)):
@@ -37,7 +36,6 @@ def transform_bronze_To_silver():
                 "city":city,
                 "latitude":lat,
                 "longtitude":lng,
-                "admin_name":admin_name,
                 "date":dates[i],
                 "temperature_max": (
                     temp_max[i] if i <len(temp_max) else None
@@ -82,7 +80,6 @@ def transform_bronze_To_silver():
     for col in numeric_cols:
         df[col] = pd.to_numeric(df[col], errors="coerce")
         df[numeric_cols] = df[numeric_cols].fillna(0)
-        df["admin_name"] = df["admin_name"].fillna("Non spécifié")
 
   
     os.makedirs(silver_dir, exist_ok=True)
