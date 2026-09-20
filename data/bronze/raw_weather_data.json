@@ -7,7 +7,7 @@
         "raw_response": {
             "latitude": 33.5625,
             "longitude": -7.625,
-            "generationtime_ms": 0.26988983154296875,
+            "generationtime_ms": 0.2789497375488281,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -74,8 +74,8 @@
                     10.5,
                     10.2,
                     10.0,
-                    12.1,
-                    11.6
+                    12.6,
+                    12.8
                 ],
                 "wind_gusts_10m_max": [
                     35.3,
@@ -83,8 +83,8 @@
                     31.0,
                     32.0,
                     28.4,
-                    31.7,
-                    31.0
+                    32.8,
+                    33.5
                 ],
                 "weather_code": [
                     3,
@@ -97,7 +97,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:30.918640"
+        "extracted_at": "2026-09-20T18:52:48.123868"
     },
     {
         "city": "Tangier",
@@ -107,7 +107,7 @@
         "raw_response": {
             "latitude": 35.75,
             "longitude": -5.8125,
-            "generationtime_ms": 0.37384033203125,
+            "generationtime_ms": 0.2740621566772461,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -174,8 +174,8 @@
                     31.3,
                     28.5,
                     24.1,
-                    24.3,
-                    19.2
+                    23.5,
+                    21.7
                 ],
                 "wind_gusts_10m_max": [
                     49.3,
@@ -183,8 +183,8 @@
                     74.9,
                     68.0,
                     58.0,
-                    46.4,
-                    35.6
+                    42.8,
+                    41.0
                 ],
                 "weather_code": [
                     2,
@@ -197,7 +197,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:31.102547"
+        "extracted_at": "2026-09-20T18:52:48.342773"
     },
     {
         "city": "Fès",
@@ -207,7 +207,7 @@
         "raw_response": {
             "latitude": 34.0625,
             "longitude": -5.0,
-            "generationtime_ms": 0.3935098648071289,
+            "generationtime_ms": 0.3317594528198242,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -274,8 +274,8 @@
                     13.6,
                     12.8,
                     9.8,
-                    7.5,
-                    11.5
+                    8.7,
+                    9.6
                 ],
                 "wind_gusts_10m_max": [
                     27.4,
@@ -283,8 +283,8 @@
                     36.7,
                     33.1,
                     26.6,
-                    21.6,
-                    29.2
+                    22.3,
+                    24.5
                 ],
                 "weather_code": [
                     3,
@@ -297,7 +297,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:31.286449"
+        "extracted_at": "2026-09-20T18:52:48.530778"
     },
     {
         "city": "Marrakech",
@@ -307,7 +307,7 @@
         "raw_response": {
             "latitude": 31.625,
             "longitude": -8.0,
-            "generationtime_ms": 0.30815601348876953,
+            "generationtime_ms": 0.3256797790527344,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -365,7 +365,7 @@
                     38,
                     2,
                     3,
-                    0,
+                    3,
                     3
                 ],
                 "wind_speed_10m_max": [
@@ -374,8 +374,8 @@
                     10.4,
                     12.7,
                     15.8,
-                    14.6,
-                    12.8
+                    12.9,
+                    13.3
                 ],
                 "wind_gusts_10m_max": [
                     22.3,
@@ -383,7 +383,7 @@
                     31.0,
                     36.7,
                     39.6,
-                    25.9,
+                    22.7,
                     23.4
                 ],
                 "weather_code": [
@@ -393,11 +393,11 @@
                     2,
                     0,
                     0,
-                    2
+                    1
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:31.469858"
+        "extracted_at": "2026-09-20T18:52:48.722460"
     },
     {
         "city": "Sale",
@@ -407,7 +407,7 @@
         "raw_response": {
             "latitude": 34.0,
             "longitude": -6.8125,
-            "generationtime_ms": 0.3865957260131836,
+            "generationtime_ms": 0.33283233642578125,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -474,8 +474,8 @@
                     11.5,
                     12.8,
                     10.9,
-                    11.4,
-                    11.8
+                    12.6,
+                    12.0
                 ],
                 "wind_gusts_10m_max": [
                     36.4,
@@ -484,7 +484,7 @@
                     32.8,
                     29.2,
                     28.1,
-                    29.2
+                    27.7
                 ],
                 "weather_code": [
                     45,
@@ -497,7 +497,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:31.654228"
+        "extracted_at": "2026-09-20T18:52:48.996402"
     },
     {
         "city": "Meknès",
@@ -507,7 +507,7 @@
         "raw_response": {
             "latitude": 33.875,
             "longitude": -5.5625,
-            "generationtime_ms": 0.33605098724365234,
+            "generationtime_ms": 0.33223628997802734,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -574,8 +574,8 @@
                     12.9,
                     13.3,
                     12.4,
-                    11.4,
-                    14.8
+                    13.8,
+                    12.6
                 ],
                 "wind_gusts_10m_max": [
                     37.1,
@@ -583,8 +583,8 @@
                     33.5,
                     34.6,
                     32.8,
-                    27.7,
-                    34.2
+                    31.3,
+                    29.5
                 ],
                 "weather_code": [
                     2,
@@ -593,11 +593,11 @@
                     1,
                     1,
                     0,
-                    3
+                    0
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:31.839286"
+        "extracted_at": "2026-09-20T18:52:49.250412"
     },
     {
         "city": "Rabat",
@@ -607,7 +607,7 @@
         "raw_response": {
             "latitude": 34.0,
             "longitude": -6.8125,
-            "generationtime_ms": 0.4029273986816406,
+            "generationtime_ms": 0.2595186233520508,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -674,8 +674,8 @@
                     11.5,
                     12.8,
                     10.9,
-                    11.4,
-                    11.8
+                    12.6,
+                    12.0
                 ],
                 "wind_gusts_10m_max": [
                     36.4,
@@ -684,7 +684,7 @@
                     32.8,
                     29.2,
                     28.1,
-                    29.2
+                    27.7
                 ],
                 "weather_code": [
                     45,
@@ -697,7 +697,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:32.025085"
+        "extracted_at": "2026-09-20T18:52:49.435472"
     },
     {
         "city": "Agadir",
@@ -707,7 +707,7 @@
         "raw_response": {
             "latitude": 30.4375,
             "longitude": -9.5625,
-            "generationtime_ms": 0.4438161849975586,
+            "generationtime_ms": 0.2567768096923828,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -774,8 +774,8 @@
                     11.6,
                     8.6,
                     11.2,
-                    13.6,
-                    13.6
+                    13.9,
+                    13.2
                 ],
                 "wind_gusts_10m_max": [
                     32.0,
@@ -783,8 +783,8 @@
                     35.3,
                     28.8,
                     37.1,
-                    27.7,
-                    27.7
+                    28.4,
+                    26.6
                 ],
                 "weather_code": [
                     2,
@@ -797,7 +797,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:32.221606"
+        "extracted_at": "2026-09-20T18:52:49.621602"
     },
     {
         "city": "Kenitra",
@@ -807,7 +807,7 @@
         "raw_response": {
             "latitude": 34.25,
             "longitude": -6.5625,
-            "generationtime_ms": 0.37097930908203125,
+            "generationtime_ms": 0.3974437713623047,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -874,8 +874,8 @@
                     13.7,
                     14.0,
                     12.3,
-                    12.4,
-                    12.2
+                    12.3,
+                    12.5
                 ],
                 "wind_gusts_10m_max": [
                     37.8,
@@ -883,8 +883,8 @@
                     36.0,
                     37.8,
                     31.7,
-                    29.2,
-                    29.5
+                    28.8,
+                    28.8
                 ],
                 "weather_code": [
                     45,
@@ -892,12 +892,12 @@
                     1,
                     0,
                     0,
-                    0,
-                    45
+                    1,
+                    1
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:32.406550"
+        "extracted_at": "2026-09-20T18:52:49.807188"
     },
     {
         "city": "Oujda-Angad",
@@ -907,7 +907,7 @@
         "raw_response": {
             "latitude": 34.6875,
             "longitude": -1.9375,
-            "generationtime_ms": 0.23424625396728516,
+            "generationtime_ms": 0.3757476806640625,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -974,8 +974,8 @@
                     16.7,
                     17.8,
                     16.4,
-                    17.9,
-                    20.1
+                    19.6,
+                    18.6
                 ],
                 "wind_gusts_10m_max": [
                     44.6,
@@ -983,8 +983,8 @@
                     36.4,
                     38.5,
                     37.4,
-                    32.4,
-                    36.4
+                    36.0,
+                    35.6
                 ],
                 "weather_code": [
                     3,
@@ -993,11 +993,11 @@
                     45,
                     2,
                     1,
-                    0
+                    1
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:32.589343"
+        "extracted_at": "2026-09-20T18:52:49.988915"
     },
     {
         "city": "Tétouan",
@@ -1007,7 +1007,7 @@
         "raw_response": {
             "latitude": 35.5625,
             "longitude": -5.375,
-            "generationtime_ms": 0.2830028533935547,
+            "generationtime_ms": 0.54931640625,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1074,8 +1074,8 @@
                     24.9,
                     27.4,
                     20.1,
-                    17.6,
-                    14.6
+                    16.8,
+                    14.0
                 ],
                 "wind_gusts_10m_max": [
                     52.9,
@@ -1083,8 +1083,8 @@
                     64.8,
                     65.9,
                     47.9,
-                    45.7,
-                    38.2
+                    44.3,
+                    38.9
                 ],
                 "weather_code": [
                     3,
@@ -1097,7 +1097,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:32.779506"
+        "extracted_at": "2026-09-20T18:52:50.180389"
     },
     {
         "city": "Safi",
@@ -1107,7 +1107,7 @@
         "raw_response": {
             "latitude": 32.3125,
             "longitude": -9.25,
-            "generationtime_ms": 0.3597736358642578,
+            "generationtime_ms": 0.26798248291015625,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1166,7 +1166,7 @@
                     0,
                     0,
                     0,
-                    3
+                    0
                 ],
                 "wind_speed_10m_max": [
                     21.7,
@@ -1174,8 +1174,8 @@
                     8.6,
                     10.9,
                     11.7,
-                    14.1,
-                    13.9
+                    14.3,
+                    14.3
                 ],
                 "wind_gusts_10m_max": [
                     38.9,
@@ -1183,8 +1183,8 @@
                     18.0,
                     21.6,
                     24.5,
-                    27.4,
-                    26.3
+                    27.7,
+                    28.1
                 ],
                 "weather_code": [
                     1,
@@ -1197,7 +1197,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:32.965837"
+        "extracted_at": "2026-09-20T18:52:50.365750"
     },
     {
         "city": "Taourirt",
@@ -1207,7 +1207,7 @@
         "raw_response": {
             "latitude": 34.4375,
             "longitude": -2.875,
-            "generationtime_ms": 0.28693675994873047,
+            "generationtime_ms": 0.34415721893310547,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1274,8 +1274,8 @@
                     30.8,
                     25.5,
                     23.4,
-                    22.1,
-                    20.2
+                    23.2,
+                    23.1
                 ],
                 "wind_gusts_10m_max": [
                     53.6,
@@ -1283,8 +1283,8 @@
                     50.8,
                     44.6,
                     44.6,
-                    39.6,
-                    35.6
+                    38.9,
+                    39.2
                 ],
                 "weather_code": [
                     3,
@@ -1297,7 +1297,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:33.149458"
+        "extracted_at": "2026-09-20T18:52:50.555253"
     },
     {
         "city": "Temara",
@@ -1307,7 +1307,7 @@
         "raw_response": {
             "latitude": 33.9375,
             "longitude": -6.875,
-            "generationtime_ms": 0.3851652145385742,
+            "generationtime_ms": 0.3159046173095703,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1374,8 +1374,8 @@
                     10.9,
                     12.2,
                     11.0,
-                    12.0,
-                    11.6
+                    12.4,
+                    11.5
                 ],
                 "wind_gusts_10m_max": [
                     37.4,
@@ -1383,8 +1383,8 @@
                     30.6,
                     32.0,
                     29.9,
-                    24.8,
-                    25.9
+                    25.6,
+                    25.2
                 ],
                 "weather_code": [
                     45,
@@ -1392,12 +1392,12 @@
                     1,
                     1,
                     0,
-                    0,
+                    45,
                     45
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:33.333239"
+        "extracted_at": "2026-09-20T18:52:50.742662"
     },
     {
         "city": "Laâyoune",
@@ -1407,7 +1407,7 @@
         "raw_response": {
             "latitude": 27.170473,
             "longitude": -13.229401,
-            "generationtime_ms": 0.8170604705810547,
+            "generationtime_ms": 0.21266937255859375,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/El_Aaiun",
             "timezone_abbreviation": "GMT+1",
@@ -1497,7 +1497,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:33.517359"
+        "extracted_at": "2026-09-20T18:52:50.932978"
     },
     {
         "city": "El Jadid",
@@ -1507,7 +1507,7 @@
         "raw_response": {
             "latitude": 33.25,
             "longitude": -8.4375,
-            "generationtime_ms": 0.8111000061035156,
+            "generationtime_ms": 0.31936168670654297,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1574,8 +1574,8 @@
                     12.0,
                     13.4,
                     11.8,
-                    13.2,
-                    12.5
+                    14.4,
+                    14.7
                 ],
                 "wind_gusts_10m_max": [
                     33.1,
@@ -1583,8 +1583,8 @@
                     22.7,
                     24.5,
                     22.0,
-                    26.6,
-                    24.8
+                    29.2,
+                    29.2
                 ],
                 "weather_code": [
                     2,
@@ -1597,7 +1597,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:33.700881"
+        "extracted_at": "2026-09-20T18:52:51.118609"
     },
     {
         "city": "Ait Melloul",
@@ -1607,7 +1607,7 @@
         "raw_response": {
             "latitude": 30.3125,
             "longitude": -9.5,
-            "generationtime_ms": 1.5395879745483398,
+            "generationtime_ms": 0.35953521728515625,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1674,8 +1674,8 @@
                     18.4,
                     14.6,
                     17.7,
-                    13.6,
-                    13.6
+                    13.9,
+                    13.2
                 ],
                 "wind_gusts_10m_max": [
                     35.3,
@@ -1683,8 +1683,8 @@
                     36.4,
                     31.0,
                     36.4,
-                    27.7,
-                    27.7
+                    28.4,
+                    26.6
                 ],
                 "weather_code": [
                     3,
@@ -1692,12 +1692,12 @@
                     45,
                     3,
                     0,
-                    2,
+                    1,
                     45
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:33.891260"
+        "extracted_at": "2026-09-20T18:52:51.303081"
     },
     {
         "city": "Béni Mellal",
@@ -1707,7 +1707,7 @@
         "raw_response": {
             "latitude": 32.3125,
             "longitude": -6.375,
-            "generationtime_ms": 1.0192394256591797,
+            "generationtime_ms": 0.4153251647949219,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1774,8 +1774,8 @@
                     18.7,
                     18.7,
                     17.6,
-                    16.7,
-                    16.6
+                    18.0,
+                    17.9
                 ],
                 "wind_gusts_10m_max": [
                     28.8,
@@ -1783,8 +1783,8 @@
                     43.9,
                     40.0,
                     37.8,
-                    32.4,
-                    31.7
+                    33.8,
+                    33.8
                 ],
                 "weather_code": [
                     3,
@@ -1793,11 +1793,11 @@
                     3,
                     3,
                     0,
-                    3
+                    0
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:34.073881"
+        "extracted_at": "2026-09-20T18:52:51.499844"
     },
     {
         "city": "Bouskoura",
@@ -1807,7 +1807,7 @@
         "raw_response": {
             "latitude": 33.4375,
             "longitude": -7.625,
-            "generationtime_ms": 0.6176233291625977,
+            "generationtime_ms": 0.23567676544189453,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1874,8 +1874,8 @@
                     14.8,
                     14.7,
                     13.4,
-                    12.1,
-                    11.6
+                    12.6,
+                    12.8
                 ],
                 "wind_gusts_10m_max": [
                     38.2,
@@ -1883,8 +1883,8 @@
                     37.1,
                     37.8,
                     33.8,
-                    31.7,
-                    31.0
+                    32.8,
+                    33.5
                 ],
                 "weather_code": [
                     3,
@@ -1897,7 +1897,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:34.257862"
+        "extracted_at": "2026-09-20T18:52:51.686916"
     },
     {
         "city": "Tiznit",
@@ -1907,7 +1907,7 @@
         "raw_response": {
             "latitude": 29.6875,
             "longitude": -9.75,
-            "generationtime_ms": 1.702427864074707,
+            "generationtime_ms": 0.3625154495239258,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -1974,8 +1974,8 @@
                     11.0,
                     15.3,
                     16.7,
-                    13.0,
-                    13.3
+                    14.3,
+                    13.6
                 ],
                 "wind_gusts_10m_max": [
                     33.8,
@@ -1983,8 +1983,8 @@
                     20.5,
                     25.9,
                     29.2,
-                    22.7,
-                    22.3
+                    26.3,
+                    23.0
                 ],
                 "weather_code": [
                     2,
@@ -1992,12 +1992,12 @@
                     3,
                     2,
                     0,
-                    45,
+                    1,
                     45
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:34.440075"
+        "extracted_at": "2026-09-20T18:52:51.871743"
     },
     {
         "city": "Mohammedia",
@@ -2007,7 +2007,7 @@
         "raw_response": {
             "latitude": 33.6875,
             "longitude": -7.375,
-            "generationtime_ms": 0.6291866302490234,
+            "generationtime_ms": 0.28383731842041016,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2074,8 +2074,8 @@
                     11.8,
                     11.8,
                     11.5,
-                    16.7,
-                    16.4
+                    16.6,
+                    17.6
                 ],
                 "wind_gusts_10m_max": [
                     35.3,
@@ -2083,8 +2083,8 @@
                     28.8,
                     29.9,
                     28.1,
-                    31.3,
-                    31.0
+                    31.0,
+                    32.8
                 ],
                 "weather_code": [
                     3,
@@ -2097,7 +2097,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:34.620137"
+        "extracted_at": "2026-09-20T18:52:52.056903"
     },
     {
         "city": "Kouribga",
@@ -2107,7 +2107,7 @@
         "raw_response": {
             "latitude": 32.875,
             "longitude": -6.875,
-            "generationtime_ms": 2.749800682067871,
+            "generationtime_ms": 0.25331974029541016,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2174,8 +2174,8 @@
                     21.4,
                     17.5,
                     17.1,
-                    18.4,
-                    15.6
+                    20.5,
+                    19.1
                 ],
                 "wind_gusts_10m_max": [
                     37.4,
@@ -2183,8 +2183,8 @@
                     41.0,
                     40.0,
                     32.0,
-                    35.6,
-                    31.7
+                    40.7,
+                    40.3
                 ],
                 "weather_code": [
                     3,
@@ -2193,11 +2193,11 @@
                     2,
                     2,
                     1,
-                    3
+                    0
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:34.806393"
+        "extracted_at": "2026-09-20T18:52:52.241027"
     },
     {
         "city": "Settat",
@@ -2207,7 +2207,7 @@
         "raw_response": {
             "latitude": 33.0,
             "longitude": -7.625,
-            "generationtime_ms": 0.9822845458984375,
+            "generationtime_ms": 0.3198385238647461,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2274,8 +2274,8 @@
                     18.2,
                     15.8,
                     14.8,
-                    18.4,
-                    15.5
+                    17.0,
+                    19.1
                 ],
                 "wind_gusts_10m_max": [
                     39.2,
@@ -2283,8 +2283,8 @@
                     38.2,
                     37.1,
                     36.4,
-                    37.8,
-                    31.3
+                    35.6,
+                    38.2
                 ],
                 "weather_code": [
                     3,
@@ -2293,11 +2293,11 @@
                     2,
                     1,
                     0,
-                    3
+                    0
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:34.987438"
+        "extracted_at": "2026-09-20T18:52:52.434951"
     },
     {
         "city": "Barrechid",
@@ -2307,7 +2307,7 @@
         "raw_response": {
             "latitude": 33.25,
             "longitude": -7.5625,
-            "generationtime_ms": 0.24139881134033203,
+            "generationtime_ms": 0.35452842712402344,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2374,8 +2374,8 @@
                     19.9,
                     18.4,
                     17.3,
-                    19.3,
-                    17.0
+                    18.5,
+                    20.9
                 ],
                 "wind_gusts_10m_max": [
                     34.9,
@@ -2383,8 +2383,8 @@
                     36.0,
                     37.8,
                     32.8,
-                    36.0,
-                    31.3
+                    34.2,
+                    37.8
                 ],
                 "weather_code": [
                     3,
@@ -2397,7 +2397,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:35.168118"
+        "extracted_at": "2026-09-20T18:52:52.623316"
     },
     {
         "city": "Ad Dakhla",
@@ -2407,7 +2407,7 @@
         "raw_response": {
             "latitude": 23.725834,
             "longitude": -15.966187,
-            "generationtime_ms": 4.8454999923706055,
+            "generationtime_ms": 0.22149085998535156,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/El_Aaiun",
             "timezone_abbreviation": "GMT+1",
@@ -2497,7 +2497,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:35.355589"
+        "extracted_at": "2026-09-20T18:52:52.809512"
     },
     {
         "city": "Nador",
@@ -2507,7 +2507,7 @@
         "raw_response": {
             "latitude": 35.1875,
             "longitude": -2.9375,
-            "generationtime_ms": 0.2371072769165039,
+            "generationtime_ms": 0.2535581588745117,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2575,7 +2575,7 @@
                     15.5,
                     13.5,
                     15.5,
-                    12.7
+                    14.6
                 ],
                 "wind_gusts_10m_max": [
                     36.0,
@@ -2583,8 +2583,8 @@
                     51.5,
                     37.1,
                     30.2,
-                    28.1,
-                    26.3
+                    27.7,
+                    26.6
                 ],
                 "weather_code": [
                     80,
@@ -2597,7 +2597,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:35.534792"
+        "extracted_at": "2026-09-20T18:52:53.030960"
     },
     {
         "city": "Taza",
@@ -2607,7 +2607,7 @@
         "raw_response": {
             "latitude": 34.25,
             "longitude": -4.0,
-            "generationtime_ms": 0.3018379211425781,
+            "generationtime_ms": 0.2881288528442383,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2674,8 +2674,8 @@
                     19.4,
                     19.8,
                     17.6,
-                    19.5,
-                    12.1
+                    17.1,
+                    17.5
                 ],
                 "wind_gusts_10m_max": [
                     39.2,
@@ -2683,8 +2683,8 @@
                     41.8,
                     41.4,
                     37.4,
-                    36.4,
-                    24.5
+                    31.3,
+                    33.1
                 ],
                 "weather_code": [
                     2,
@@ -2697,7 +2697,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:35.725963"
+        "extracted_at": "2026-09-20T18:52:53.215218"
     },
     {
         "city": "Inezgane",
@@ -2707,7 +2707,7 @@
         "raw_response": {
             "latitude": 30.375,
             "longitude": -9.5625,
-            "generationtime_ms": 0.36025047302246094,
+            "generationtime_ms": 0.25773048400878906,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2774,8 +2774,8 @@
                     13.7,
                     10.5,
                     11.7,
-                    13.6,
-                    13.6
+                    13.9,
+                    13.2
                 ],
                 "wind_gusts_10m_max": [
                     34.9,
@@ -2783,8 +2783,8 @@
                     39.2,
                     28.8,
                     35.6,
-                    27.7,
-                    27.7
+                    28.4,
+                    26.6
                 ],
                 "weather_code": [
                     2,
@@ -2797,7 +2797,7 @@
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:35.905574"
+        "extracted_at": "2026-09-20T18:52:53.400650"
     },
     {
         "city": "Larache",
@@ -2807,7 +2807,7 @@
         "raw_response": {
             "latitude": 35.1875,
             "longitude": -6.125,
-            "generationtime_ms": 0.5803108215332031,
+            "generationtime_ms": 0.29456615447998047,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2874,7 +2874,7 @@
                     15.6,
                     15.0,
                     17.5,
-                    15.8,
+                    13.8,
                     14.3
                 ],
                 "wind_gusts_10m_max": [
@@ -2883,7 +2883,7 @@
                     28.8,
                     27.7,
                     32.8,
-                    29.9,
+                    26.6,
                     26.6
                 ],
                 "weather_code": [
@@ -2893,11 +2893,11 @@
                     1,
                     0,
                     1,
-                    3
+                    0
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:36.087714"
+        "extracted_at": "2026-09-20T18:52:53.582134"
     },
     {
         "city": "Al Khmissat",
@@ -2907,7 +2907,7 @@
         "raw_response": {
             "latitude": 33.8125,
             "longitude": -6.0625,
-            "generationtime_ms": 2.191901206970215,
+            "generationtime_ms": 0.23818016052246094,
             "utc_offset_seconds": 3600,
             "timezone": "Africa/Casablanca",
             "timezone_abbreviation": "GMT+1",
@@ -2974,8 +2974,8 @@
                     15.4,
                     14.5,
                     14.7,
-                    15.1,
-                    17.2
+                    17.9,
+                    18.5
                 ],
                 "wind_gusts_10m_max": [
                     36.4,
@@ -2983,8 +2983,8 @@
                     31.7,
                     30.2,
                     32.0,
-                    28.8,
-                    33.5
+                    33.5,
+                    34.2
                 ],
                 "weather_code": [
                     3,
@@ -2992,11 +2992,11 @@
                     2,
                     0,
                     0,
-                    0,
-                    3
+                    1,
+                    0
                 ]
             }
         },
-        "extracted_at": "2026-09-20T18:33:36.273037"
+        "extracted_at": "2026-09-20T18:52:53.768337"
     }
 ]
