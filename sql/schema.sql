@@ -2,9 +2,8 @@
 CREATE TABLE IF NOT EXISTS dim_cities (
     city_id SERIAL PRIMARY KEY,
     city_name VARCHAR(100) NOT NULL UNIQUE,
-    lat NUMERIC(8, 6) NOT NULL,
-    lng NUMERIC(8, 6) NOT NULL,
-    admin_name VARCHAR(100)
+    lat NUMERIC(9,6),
+    lng NUMERIC(9,6)
 );
 
 CREATE TABLE IF NOT EXISTS fact_weather_forecasts (
