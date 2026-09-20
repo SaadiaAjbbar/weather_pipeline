@@ -3,7 +3,6 @@ import sys
 from pathlib import Path
 import pandas as pd
 
-# Ajoute le dossier racine du projet au chemin Python
 sys.path.append(str(Path(__file__).resolve().parent.parent.parent))
 
 from src.engineering.database import save_gold_to_db
@@ -83,7 +82,6 @@ def run_gold_pipeline():
     "longtitude": "lng"
     })
 
-    # Application des règles métier
     df["temp_category"] = df["temperature_max"].apply(categorer_temperature)
     df["precip_category"] = df["precipitation_sum"].apply(categorer_precipitation)
     df["wind_category"] = df["wind_speed_max"].apply(categorer_wind)
@@ -91,12 +89,10 @@ def run_gold_pipeline():
     df["risk_score"] = df.apply(calculer_risque_score, axis=1)
     df["risk_level"] = df["risk_score"].apply(niveau_risque)
 
-    # Sauvegarde locale Gold
     os.makedirs("data/gold", exist_ok=True)
     df.to_csv("data/gold/weather_gold.csv", index=False)
     print("Données Gold sauvegardées localement dans data/gold/weather_gold.csv")
 
-    # Insertion en base de données via database.py
     print("Chargement des données dans PostgreSQL...")
     save_gold_to_db(df)
     print("Pipeline Gold exécuté avec succès !")
