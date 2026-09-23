@@ -8,7 +8,6 @@ import json
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# Configuration des chemins de fichiers
 RAW_CITIES_PATH = "data/raw_cities.csv"
 BRONZE_DIR = "data/bronze"
 
@@ -24,7 +23,6 @@ DAILY_PARAMS = [
     "weather_code"
 ]
 
-#reload connection 3 fois si error de connexion
 def create_resilient_session():
     session = requests.Session()
     retry_strategy = Retry(
@@ -38,7 +36,6 @@ def create_resilient_session():
     session.mount("http://", adapter)
     return session
 
-#lire le fichier des cities
 def load_cities_data(csv_path: str) -> pd.DataFrame:
     if not os.path.exists(csv_path):
         raise FileNotFoundError(f"Le fichier {csv_path} est introuvable.")
@@ -85,7 +82,7 @@ def run_bronze_extraction():
     os.makedirs(BRONZE_DIR, exist_ok=True)
     session = create_resilient_session()
     
-    cities_df = load_cities_data(RAW_CITIES_PATH).head(30)
+    cities_df = load_cities_data(RAW_CITIES_PATH)
     bronze_results = []
     
     print(f"Début de l'extraction pour {len(cities_df)} villes...")
@@ -111,10 +108,8 @@ def run_bronze_extraction():
         else:
             print(f"[{idx+1}/{len(cities_df)}] Échec : {city_name}")
 
-        # Courte pause pour éviter de dépasser la limite de débit (Rate Limit) de l'API
         time.sleep(0.1)
 
-    # Sauvegarde inchangée du résultat brut sous format JSON dans la zone Bronze
     output_path = os.path.join(BRONZE_DIR, "raw_weather_data.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(bronze_results, f, ensure_ascii=False, indent=4)
